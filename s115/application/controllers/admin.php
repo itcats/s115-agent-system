@@ -2,8 +2,8 @@
 /**
  * @Author: itcats
  * @Date:   2016-01-27 20:52:12
- * @Last Modified by:   遇到
- * @Last Modified time: 2016-03-12 02:01:57
+ * @Last Modified by:   itcats
+ * @Last Modified time: 2016-02-26 11:17:59
  *
  *管理员控制器
  *
@@ -255,6 +255,5 @@ class Admin extends CI_Controller {
 
         success('admin/checkagent', '更新代理商成功');
 
-        //代理商服务器列表视图
     }
 }
