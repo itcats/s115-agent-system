@@ -3,9 +3,9 @@
  * @Author: itcats
  * @Date:   2016-01-27 14:00:37
  * @Last Modified by:   itcats
- * @Last Modified time: 2016-01-28 16:26:26
+ * @Last Modified time: 2016-05-11 14:16:52
  *
- *管理员登录控制器
+ *管理员登录控制器 测试
  *
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
